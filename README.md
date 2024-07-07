@@ -1,1 +1,1 @@
-# NxtWave-GC-1
+# NxtWave-GC-1-W1
